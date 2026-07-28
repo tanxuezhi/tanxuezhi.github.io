@@ -12,7 +12,9 @@ let publications=[
 ];
 const list=document.querySelector('#publication-list');
 const escapeHtml=value=>String(value||'').replace(/[&<>'"]/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
-const authorMarkup=value=>escapeHtml(value).replace(/Xuezhi Tan/gi,'<strong>Xuezhi Tan</strong>');
+const authorMarkup=value=>escapeHtml(value)
+ .replace(/Xuezhi Tan/gi,'<strong>Xuezhi Tan</strong>')
+ .replace(/\bX\.?\s+Tan\b/g,'<strong>X. Tan</strong>');
 function draw(filter='all'){list.innerHTML=publications.filter(p=>filter==='all'||p.c===filter).map(p=>`<article class="publication"><div class="meta">${p.c.toUpperCase()}</div><div><h3><a target="_blank" rel="noreferrer" href="${p.u}">${p.t} ↗</a></h3><p>${p.a}. <em>${p.j}</em>${p.n!==undefined?` · ${Number(p.n).toLocaleString()} citations`:''}</p></div></article>`).join('')}
 document.querySelectorAll('.filters button').forEach(b=>b.addEventListener('click',()=>{document.querySelector('.filters .active').classList.remove('active');b.classList.add('active');draw(b.dataset.filter)}));draw();document.querySelector('#year').textContent=new Date().getFullYear();
 const header=document.querySelector('.site-header'),menu=document.querySelector('.menu-button');menu.addEventListener('click',()=>{const open=header.classList.toggle('open');menu.setAttribute('aria-expanded',open)});
@@ -21,7 +23,7 @@ const header=document.querySelector('.site-header'),menu=document.querySelector(
 fetch('data/scholar-stats.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(s=>{
  const metrics=document.querySelector('#scholar-metrics'),updated=document.querySelector('#scholar-updated');
  if(metrics) metrics.textContent=`${Number(s.citations).toLocaleString()} citations · h-index ${s.h_index}`;
- if(updated&&s.updated_at) updated.textContent=`Last checked ${new Date(s.updated_at).toLocaleDateString('en-CA')} · weekly refresh`;
+ if(updated&&s.updated_at) updated.textContent=`Last checked ${new Date(s.updated_at).toLocaleDateString('en-CA')} · daily refresh`;
 }).catch(()=>{});
 
 fetch('data/scholar-publications.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(data=>{

@@ -8,6 +8,7 @@ import html
 import json
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -28,11 +29,29 @@ def tag_has_class(attributes: str, class_name: str) -> bool:
     return bool(match and class_name in match.group(1).split())
 
 
-def request_page(start: int = 0) -> str:
-    url = f"{PROFILE_URL}&cstart={start}&pagesize=100"
-    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; AcademicSiteMetrics/1.0)"})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return response.read().decode("utf-8", errors="replace")
+def request_page(start: int = 0, retries: int = 3) -> str:
+    """Retrieve a Scholar works page, retrying transient rate-limit responses."""
+    url = f"{PROFILE_URL}&view_op=list_works&cstart={start}&pagesize=100"
+    error: Exception | None = None
+    for attempt in range(retries):
+        try:
+            request = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36",
+                    "Accept-Language": "en-US,en;q=0.9",
+                },
+            )
+            with urllib.request.urlopen(request, timeout=30) as response:
+                page = response.read().decode("utf-8", errors="replace")
+            if "gsc_a_tr" in page:
+                return page
+            raise ValueError("Scholar returned no publication rows")
+        except Exception as exc:
+            error = exc
+            if attempt + 1 < retries:
+                time.sleep(2 ** attempt)
+    raise RuntimeError(f"Could not retrieve Scholar works page: {error}")
 
 
 def read_metrics(page: str) -> dict[str, int]:
@@ -70,7 +89,9 @@ def parse_publications(page: str) -> list[dict[str, object]]:
                 break
         if not title:
             continue
-        details = [clean(div.group(2)) for div in re.finditer(r"<div\b([^>]*)>(.*?)</div>", row, re.S) if tag_has_class(div.group(1), "gsc_a_at")]
+        # Google Scholar stores authors and venue in two `gs_gray` divs inside
+        # the publication cell; `gsc_a_at` is an anchor class, not a div class.
+        details = [clean(div.group(2)) for div in re.finditer(r"<div\b([^>]*)>(.*?)</div>", row, re.S) if tag_has_class(div.group(1), "gs_gray")]
         citations = 0
         for anchor in re.finditer(r"<a\b([^>]*)>(.*?)</a>", row, re.S):
             if tag_has_class(anchor.group(1), "gsc_a_ac"):
@@ -82,13 +103,13 @@ def parse_publications(page: str) -> list[dict[str, object]]:
     return records
 
 
-def read_profile() -> tuple[dict[str, int], list[dict[str, object]]]:
-    first_page = request_page()
+def read_profile(retries: int = 3) -> tuple[dict[str, int], list[dict[str, object]]]:
+    first_page = request_page(retries=retries)
     metrics = read_metrics(first_page)
     publications: list[dict[str, object]] = []
     seen_titles: set[str] = set()
     for start in range(0, 501, 100):
-        page = first_page if start == 0 else request_page(start)
+        page = first_page if start == 0 else request_page(start, retries=retries)
         batch = parse_publications(page)
         for record in batch:
             title = str(record["title"])
@@ -105,12 +126,13 @@ def read_profile() -> tuple[dict[str, int], list[dict[str, object]]]:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--write", action="store_true")
+    parser.add_argument("--retries", type=int, default=3)
     args = parser.parse_args()
     try:
-        metrics, publications = read_profile()
+        metrics, publications = read_profile(retries=max(args.retries, 1))
     except Exception as exc:
-        print(f"Scholar refresh skipped: {exc}", file=sys.stderr)
-        return 0
+        print(f"Scholar refresh failed: {exc}", file=sys.stderr)
+        return 1
     checked_at = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     stats = {"scholar_id": SCHOLAR_ID, **metrics, "updated_at": checked_at, "source": PROFILE_URL}
     catalogue = {"scholar_id": SCHOLAR_ID, "updated_at": checked_at, "source": PROFILE_URL, "publications": publications}

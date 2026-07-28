@@ -3,8 +3,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # Every Sunday at 03:00 UTC (weekly Google Scholar metadata refresh).
-    - cron: '0 3 * * 0'
+    # Daily Scholar refresh. GitHub Pages remains static between refreshes.
+    - cron: '0 3 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -22,10 +22,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Refresh public Google Scholar profile and publications
-        if: github.event_name == 'schedule'
-        run: python3 scripts/sync_scholar.py --write
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python3 scripts/sync_scholar.py --write --retries 3
       - name: Commit refreshed metrics
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           if git diff --quiet -- data/scholar-stats.json data/scholar-publications.json; then
             echo "No Scholar changes detected."

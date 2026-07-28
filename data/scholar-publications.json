@@ -1,6 +1,988 @@
 {
   "scholar_id": "nB2d3vgAAAAJ",
-  "updated_at": "2026-07-17T00:00:00Z",
+  "updated_at": "2026-07-28T03:01:28Z",
   "source": "https://scholar.google.com/citations?user=nB2d3vgAAAAJ&hl=en",
-  "publications": []
+  "publications": [
+    {
+      "title": "Effects of alternate wetting and drying irrigation on percolation and nitrogen leaching in paddy fields",
+      "authors": "X Tan, D Shao, H Liu, F Yang, C Xiao, H Yang",
+      "venue": "Paddy and Water Environment 11 (1), 381-395 , 2013",
+      "year": 2013,
+      "citations": 250,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "title": "Field analysis of water and nitrogen fate in lowland paddy fields under different water managements using HYDRUS-1D",
+      "authors": "X Tan, D Shao, W Gu, H Liu",
+      "venue": "Agricultural Water Management 150, 67-80 , 2015",
+      "year": 2015,
+      "citations": 172,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:0EnyYjriUFMC"
+    },
+    {
+      "title": "Increasing global precipitation whiplash due to anthropogenic greenhouse gas emissions",
+      "authors": "X Tan, X Wu, Z Huang, J Fu, X Tan, S Deng, Y Liu, TY Gan, B Liu",
+      "venue": "Nature Communications 14 (1), 2796 , 2023",
+      "year": 2023,
+      "citations": 158,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dfsIfKJdRG4C"
+    },
+    {
+      "title": "Global atmospheric moisture transport associated with precipitation extremes: Mechanisms and climate change impacts",
+      "authors": "B Liu, X Tan, TY Gan, X Chen, K Lin, M Lu, Z Liu",
+      "venue": "Wiley Interdisciplinary Reviews: Water 7 (2), e1412 , 2020",
+      "year": 2020,
+      "citations": 152,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:O3NaXMp0MMsC"
+    },
+    {
+      "title": "Contribution of human and climate change impacts to changes in streamflow of Canada.",
+      "authors": "X Tan, TY Gan",
+      "venue": "Scientific reports 5, 17767-17767 , 2015",
+      "year": 2015,
+      "citations": 125,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:MXK_kJrjxJIC"
+    },
+    {
+      "title": "Assessment of CFSR, ERA-Interim, JRA-55, MERRA-2, NCEP-2 reanalysis data for drought analysis over China",
+      "authors": "S Chen, TY Gan, X Tan, D Shao, J Zhu",
+      "venue": "Climate Dynamics 53 (1), 737-757 , 2019",
+      "year": 2019,
+      "citations": 121,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:bEWYMUwI8FkC"
+    },
+    {
+      "title": "Global changes in baseflow under the impacts of changing climate and vegetation",
+      "authors": "X Tan, B Liu, X Tan",
+      "venue": "Water Resources Research 56 (9), e2020WR027349 , 2020",
+      "year": 2020,
+      "citations": 115,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:RYcK_YlVTxYC"
+    },
+    {
+      "title": "Simulating soil water regime in lowland paddy fields under different water managements using HYDRUS-1D",
+      "authors": "X Tan, D Shao, H Liu",
+      "venue": "Agricultural Water Management 132, 69-78 , 2014",
+      "year": 2014,
+      "citations": 110,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+      "title": "Wavelet analysis of precipitation extremes over Canadian ecoregions and teleconnections to large‐scale climate anomalies",
+      "authors": "X Tan, TY Gan, D Shao",
+      "venue": "Journal of Geophysical Research: Atmospheres 121 (24), 14,469-14,486 , 2016",
+      "year": 2016,
+      "citations": 105,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:mVmsd5A6BfQC"
+    },
+    {
+      "title": "Effects of temperature and soil moisture on gross nitrification and denitrification rates of a Chinese lowland paddy field soil",
+      "authors": "X Tan, D Shao, W Gu",
+      "venue": "Paddy and Water Environment, 1-12 , 2018",
+      "year": 2018,
+      "citations": 101,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:_Qo2XoVZTnwC"
+    },
+    {
+      "title": "Spatiotemporal changes of drought characteristics and their dynamic drivers in Canada",
+      "authors": "Y Yang, TY Gan, X Tan",
+      "venue": "Atmospheric Research 232, 104695 , 2020",
+      "year": 2020,
+      "citations": 95,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:hMod-77fHWUC"
+    },
+    {
+      "title": "Nonstationary analysis of annual maximum streamflow of Canada",
+      "authors": "X Tan, TY Gan",
+      "venue": "Journal of Climate 28 (2014), 1788-1805 , 2015",
+      "year": 2015,
+      "citations": 89,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+      "title": "Drought characteristics over China during 1980–2015",
+      "authors": "D Shao, S Chen, X Tan, W Gu",
+      "venue": "International Journal of Climatology , 2018",
+      "year": 2018,
+      "citations": 85,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:hC7cP41nSMkC"
+    },
+    {
+      "title": "Effects of persistence and large-scale climate anomalies on trends and change points in extreme precipitation of Canada",
+      "authors": "X Tan, TY Gan, D Shao",
+      "venue": "Journal of Hydrology 550, 453-465 , 2017",
+      "year": 2017,
+      "citations": 73,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:L8Ckcad2t8MC"
+    },
+    {
+      "title": "Precipitation trends and teleconnections identified using quantile regressions over Xinjiang, China",
+      "authors": "X Tan, D Shao",
+      "venue": "International Journal of Climatology 37 (3), 1510-1525 , 2017",
+      "year": 2017,
+      "citations": 73,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:Zph67rFs4hoC"
+    },
+    {
+      "title": "Identification of the key driving factors of flash flood based on different feature selection techniques coupled with random forest method",
+      "authors": "XZ Tan, Y Li, XX Wu, C Dai, XL Zhang, YP Cai",
+      "venue": "Journal of Hydrology: Regional Studies 51, 101624 , 2024",
+      "year": 2024,
+      "citations": 70,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:pyW8ca7W8N0C"
+    },
+    {
+      "title": "Evaluation of soil water percolation under different irrigation practices, antecedent moisture and groundwater depths in paddy fields",
+      "authors": "B Xu, D Shao, X Tan, X Yang, W Gu, H Li",
+      "venue": "Agricultural water management 192, 149-158 , 2017",
+      "year": 2017,
+      "citations": 66,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:IWHjjKOFINEC"
+    },
+    {
+      "title": "Decreasing dynamic predictability of global agricultural drought with warming climate",
+      "authors": "H Wu, X Su, S Huang, VP Singh, S Zhou, X Tan, X Hu",
+      "venue": "Nature Climate Change 15 (4), 411-419 , 2025",
+      "year": 2025,
+      "citations": 62,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dshw04ExmUIC"
+    },
+    {
+      "title": "Global changes in the spatial extents of precipitation extremes",
+      "authors": "X Tan, X Wu, B Liu",
+      "venue": "Environmental Research Letters 16 (5), 054017 , 2021",
+      "year": 2021,
+      "citations": 60,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:g5m5HwL7SMYC"
+    },
+    {
+      "title": "Assessment of urban water security based on catastrophe theory",
+      "authors": "F Yang, D Shao, C Xiao, X Tan",
+      "venue": "Water science and technology 66 (3), 487-493 , 2012",
+      "year": 2012,
+      "citations": 60,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "title": "Multifractality of Canadian precipitation and streamflow",
+      "authors": "X Tan, TY Gan",
+      "venue": "International Journal of Climatology 37, 1221-1236 , 2017",
+      "year": 2017,
+      "citations": 58,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dhFuZR0502QC"
+    },
+    {
+      "title": "Spatiotemporal changes in precipitation extremes over Canada and their teleconnections to large-scale climate patterns",
+      "authors": "Y Yang, TY Gan, X Tan",
+      "venue": "Journal of Hydrometeorology 20 (2), 275-296 , 2019",
+      "year": 2019,
+      "citations": 55,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:4JMBOYKVnBMC"
+    },
+    {
+      "title": "Simulation and optimization of multi-reservoir operation in inter-basin water transfer system",
+      "authors": "W Gu, D Shao, X Tan, C Shu, Z Wu",
+      "venue": "Water resources management 31 (11), 3401-3412 , 2017",
+      "year": 2017,
+      "citations": 55,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:7PzlFSSx8tAC"
+    },
+    {
+      "title": "Inconsistent changes in global precipitation seasonality in seven precipitation datasets",
+      "authors": "X Tan, Y Wu, B Liu, S Chen",
+      "venue": "Climate Dynamics 54 (5), 3091-3108 , 2020",
+      "year": 2020,
+      "citations": 54,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:ns9cj8rnVeAC"
+    },
+    {
+      "title": "Non-stationary analysis of the frequency and intensity of heavy precipitation over Canada and their relations to large-scale climate patterns",
+      "authors": "X Tan, TY Gan",
+      "venue": "Climate Dynamics 48 (9), 2983-3001 , 2017",
+      "year": 2017,
+      "citations": 54,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:_kc_bZDykSQC"
+    },
+    {
+      "title": "Dynamics of hydrological-model parameters: mechanisms, problems and solutions",
+      "authors": "T Lan, K Lin, CY Xu, X Tan, X Chen",
+      "venue": "Hydrology and Earth System Sciences 24 (3), 1347-1366 , 2020",
+      "year": 2020,
+      "citations": 52,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:GnPB-g6toBAC"
+    },
+    {
+      "title": "Thermodynamically enhanced precipitation extremes due to counterbalancing influences of anthropogenic greenhouse gases and aerosols",
+      "authors": "Z Huang, X Tan, TY Gan, B Liu, X Chen",
+      "venue": "Nature Water 1 (7), 614-625 , 2023",
+      "year": 2023,
+      "citations": 51,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:yD5IFk8b50cC"
+    },
+    {
+      "title": "Projected timing of perceivable changes in climate extremes for terrestrial and marine ecosystems",
+      "authors": "X Tan, TY Gan, DE Horton",
+      "venue": "Global Change Biology , 2018",
+      "year": 2018,
+      "citations": 50,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:hFOr9nPyWt4C"
+    },
+    {
+      "title": "Global warming impact to River Basin of Blue Nile and the optimum operation of its multi-reservoir system for hydropower production and irrigation",
+      "authors": "TB Tariku, KE Gan, X Tan, TY Gan, H Shi, A Tilmant",
+      "venue": "Science of the Total Environment 767, 144863 , 2021",
+      "year": 2021,
+      "citations": 47,
+      "category": "energy",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:35N4QoGY0k4C"
+    },
+    {
+      "title": "Evaluation of water security: an integrated approach applied in Wuhan urban agglomeration, China",
+      "authors": "D Shao, F Yang, C Xiao, X Tan",
+      "venue": "Water Science and Technology 66 (1), 79-87 , 2012",
+      "year": 2012,
+      "citations": 45,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "title": "A reversal in global occurrences of flash drought around 2000 identified by rapid changes in the standardized evaporative stress ratio",
+      "authors": "S Deng, X Tan, B Liu, F Yang, T Yan",
+      "venue": "Science of the Total Environment 848, 157427 , 2022",
+      "year": 2022,
+      "citations": 41,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:zA6iFVUQeVQC"
+    },
+    {
+      "title": "Trends in persistent seasonal-scale atmospheric circulation patterns responsible for seasonal precipitation totals and occurrences of precipitation extremes over Canada",
+      "authors": "X Tan, TY Gan, S Chen, DE Horton, X Chen, B Liu, K Lin",
+      "venue": "Journal of Climate 32 (21), 7105-7126 , 2019",
+      "year": 2019,
+      "citations": 41,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:maZDTaKrznsC"
+    },
+    {
+      "title": "Dynamic changes of the dryness/wetness characteristics in the largest river basin of South China and their possible climate driving factors",
+      "authors": "J Wu, X Tan, X Chen, K Lin",
+      "venue": "Atmospheric Research 232, 104685 , 2020",
+      "year": 2020,
+      "citations": 38,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:blknAaTinKkC"
+    },
+    {
+      "title": "Modeling distributional changes in winter precipitation of Canada using Bayesian spatiotemporal quantile regression subjected to different teleconnections",
+      "authors": "X Tan, TY Gan, S Chen, B Liu",
+      "venue": "Climate Dynamics 52 (3), 2105-2124 , 2019",
+      "year": 2019,
+      "citations": 36,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:-f6ydRqryjwC"
+    },
+    {
+      "title": "Performance analysis of on-farm irrigation tanks on agricultural drainage water reuse and treatment",
+      "authors": "D Shao, X Tan, H Liu, H Yang, C Xiao, F Yang",
+      "venue": "Resources, conservation and recycling 75, 1-13 , 2013",
+      "year": 2013,
+      "citations": 35,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "title": "Inter-comparison of spatiotemporal features of precipitation extremes within six daily precipitation products",
+      "authors": "S Chen, L Bingjun, T Xuezhi, Y Wu",
+      "venue": "Climate Dynamics 54 (1-2), 1057-1076 , 2020",
+      "year": 2020,
+      "citations": 34,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:BqipwSGYUEgC"
+    },
+    {
+      "title": "Relative contributions of large‐scale atmospheric circulation dynamics and anthropogenic warming to the unprecedented 2022 Yangtze River Basin heatwave",
+      "authors": "Z Huang, X Tan, B Liu",
+      "venue": "Journal of Geophysical Research: Atmospheres 129 (4), e2023JD039330 , 2024",
+      "year": 2024,
+      "citations": 30,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:f2IySw72cVMC"
+    },
+    {
+      "title": "Long‐term water imbalances of watersheds resulting from biases in hydroclimatic data sets for water budget analyses",
+      "authors": "X Tan, B Liu, X Tan, X Chen",
+      "venue": "Water Resources Research 58 (3), e2021WR031209 , 2022",
+      "year": 2022,
+      "citations": 30,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:HoB7MX3m0LUC"
+    },
+    {
+      "title": "基于 SPI 的陕西关中地区气象干旱时空特征分析",
+      "authors": "谭学志， 粟晓玲， 邵东国",
+      "venue": "干旱地区农业研究 29 (2), 224-229 , 2011",
+      "year": 2011,
+      "citations": 29,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:TQgYirikUcIC"
+    },
+    {
+      "title": "Multi-model extreme event attribution of the weather conducive to the 2016 Fort McMurray wildfire",
+      "authors": "X Tan, S Chen, TY Gan",
+      "venue": "Agricultural and Forest Meteorology 260, 109-117 , 2018",
+      "year": 2018,
+      "citations": 28,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:mB3voiENLucC"
+    },
+    {
+      "title": "Moisture sources and pathways associated with the spatial variability of seasonal extreme precipitation over Canada",
+      "authors": "X Tan, TY Gan, YD Chen",
+      "venue": "Climate Dynamics 50, 629-640 , 2018",
+      "year": 2018,
+      "citations": 28,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:QIV2ME_5wuYC"
+    },
+    {
+      "title": "Recent changing characteristics of dry and wet spells in Canada",
+      "authors": "Y Yang, TY Gan, X Tan",
+      "venue": "Climatic Change 165 (3), 42 , 2021",
+      "year": 2021,
+      "citations": 27,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:M05iB0D1s5AC"
+    },
+    {
+      "title": "Contribution of changes in vegetation composition and climate variability on streamflow across the global watersheds",
+      "authors": "X Tan, X Tan, B Liu, Z Huang",
+      "venue": "Catena 232, 107394 , 2023",
+      "year": 2023,
+      "citations": 26,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:a0OBvERweLwC"
+    },
+    {
+      "title": "The responses of ecosystem water use efficiency to CO2, nitrogen deposition, and climatic drivers across China",
+      "authors": "X Cai, L Li, JB Fisher, Z Zeng, S Zhou, X Tan, B Liu, X Chen",
+      "venue": "Journal of Hydrology 622, 129696 , 2023",
+      "year": 2023,
+      "citations": 26,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:cFHS6HbyZ2cC"
+    },
+    {
+      "title": "Dynamic and thermodynamic changes conducive to the increased occurrence of extreme spring fire weather over western Canada under possible anthropogenic climate change",
+      "authors": "X Tan, S Chen, TY Gan, B Liu, X Chen",
+      "venue": "Agricultural and forest meteorology 265, 269-279 , 2019",
+      "year": 2019,
+      "citations": 26,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:r0BpntZqJG4C"
+    },
+    {
+      "title": "A copula-based interval-bistochastic programming method for regional water allocation under uncertainty",
+      "authors": "S Chen, J Xu, Q Li, X Tan, X Nong",
+      "venue": "Agricultural Water Management 217, 154-164 , 2019",
+      "year": 2019,
+      "citations": 23,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:isC4tDSrTZIC"
+    },
+    {
+      "title": "Daily water quality forecast of the South-To-North Water Diversion Project of China based on the Cuckoo Search-back propagation neural network",
+      "authors": "D Shao, X Nong, X Tan, S Chen, B Xu, N Hu",
+      "venue": "Water 10 (10), 1471 , 2018",
+      "year": 2018,
+      "citations": 23,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:j3f4tGmQtD8C"
+    },
+    {
+      "title": "Duration–severity–area characteristics of drought events in eastern China determined using a three‐dimensional clustering method",
+      "authors": "B Liu, M Liang, Z Huang, X Tan",
+      "venue": "International Journal of climatology 41, E3065-E3084 , 2021",
+      "year": 2021,
+      "citations": 22,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:vV6vV6tmYwMC"
+    },
+    {
+      "title": "On the development and recovery of soil moisture deficit drought events",
+      "authors": "S Deng, X Tan, X Tan, X Wu, Z Huang, Y Liu, B Liu",
+      "venue": "Journal of Hydrology 632, 130920 , 2024",
+      "year": 2024,
+      "citations": 21,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:bFI3QPDXJZMC"
+    },
+    {
+      "title": "Impacts of land use change on thermodynamic and dynamic changes of precipitation for the Yangtze River Basin, China",
+      "authors": "Q Lin, J Chen, W Li, K Huang, X Tan, H Chen",
+      "venue": "International Journal of Climatology 41 (6), 3598-3614 , 2021",
+      "year": 2021,
+      "citations": 21,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:ldfaerwXgEUC"
+    },
+    {
+      "title": "Synoptic moisture pathways associated with mean and extreme precipitation over Canada for summer and fall",
+      "authors": "X Tan, TY Gan, YD Chen",
+      "venue": "Climate Dynamics 52 (5), 2959-2979 , 2019",
+      "year": 2019,
+      "citations": 21,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:RHpTSmoSYBkC"
+    },
+    {
+      "title": "An interval multistage classified model for regional inter-and intra-seasonal water management under uncertain and nonstationary condition",
+      "authors": "S Chen, D Shao, X Tan, W Gu, C Lei",
+      "venue": "Agricultural Water Management 191, 98-112 , 2017",
+      "year": 2017,
+      "citations": 20,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:ZeXyd9-uunAC"
+    },
+    {
+      "title": "A stochastic simulation-based chance-constrained programming model for optimizing watershed best management practices for nonpoint source pollution control under uncertainty",
+      "authors": "C Dai, X Zhang, X Tan, M Hu, W Sun",
+      "venue": "Journal of Hydrology 632, 130882 , 2024",
+      "year": 2024,
+      "citations": 19,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:_xSYboBqXhAC"
+    },
+    {
+      "title": "Detection and attribution of the decreasing precipitation and extreme drought 2020 in southeastern China",
+      "authors": "X Tan, X Wu, Z Huang, S Deng, M Hu, TY Gan",
+      "venue": "Journal of Hydrology 610, 127996 , 2022",
+      "year": 2022,
+      "citations": 19,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:3s1wT3WcHBgC"
+    },
+    {
+      "title": "Fronts and cyclones associated with changes in the total and extreme precipitation over China",
+      "authors": "X Wu, X Tan, B Liu, H Chen, X Chen",
+      "venue": "Journal of Climate 35 (13), 4131-4146 , 2022",
+      "year": 2022,
+      "citations": 19,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:SeFeTyx0c_EC"
+    },
+    {
+      "title": "Can limiting global temperature rise to below 2° C warming prevent the emergence of unprecedented drought?",
+      "authors": "Y Ji, J Fu, B Liu, X Tan",
+      "venue": "Agricultural and Forest Meteorology 352, 110047 , 2024",
+      "year": 2024,
+      "citations": 18,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:b0M2c_1WBrUC"
+    },
+    {
+      "title": "Long-term changes, synoptic behaviors, and future projections of large-scale anomalous precipitation events in China detected by a deep learning autoencoder",
+      "authors": "Z Huang, X Tan, X Wu, X Tan, J Fu, B Liu",
+      "venue": "Journal of Climate 36 (12), 4133-4149 , 2023",
+      "year": 2023,
+      "citations": 16,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:4OULZ7Gr8RgC"
+    },
+    {
+      "title": "Improving water reuse in paddy field districts with cascaded on-farm ponds using hydrologic model simulations",
+      "authors": "X Tan, D Shao, W Gu",
+      "venue": "Water Resources Management 32 (5), 1849-1865 , 2018",
+      "year": 2018,
+      "citations": 14,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:qUcmZB5y_30C"
+    },
+    {
+      "title": "Characteristics and circulation background of extreme precipitation over East China",
+      "authors": "S Chen, B Liu, X Tan, Z Huang",
+      "venue": "Natural Hazards 99 (1), 537-552 , 2019",
+      "year": 2019,
+      "citations": 13,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:JV2RwH3_ST0C"
+    },
+    {
+      "title": "Synoptic moisture pathways associated with mean and extreme precipitation over Canada for winter and spring",
+      "authors": "X Tan, TY Gan, YD Chen",
+      "venue": "Climate Dynamics, 1-19 , 2019",
+      "year": 2019,
+      "citations": 13,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:TFP_iSt0sucC"
+    },
+    {
+      "title": "Response of precipitation to extensive urbanization over the Pearl River Delta metropolitan region",
+      "authors": "B Liu, S Chen, X Tan, X Chen",
+      "venue": "Environmental earth sciences 80 (1), 9 , 2021",
+      "year": 2021,
+      "citations": 12,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:70eg2SAEIzsC"
+    },
+    {
+      "title": "Examinations on global changes in the total and spatial extent of tropical cyclone precipitation relating to rapid intensification",
+      "authors": "X Tan, Y Liu, X Wu, B Liu, X Chen",
+      "venue": "Science of the Total Environment 853, 158555 , 2022",
+      "year": 2022,
+      "citations": 11,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:u_35RYKgDlwC"
+    },
+    {
+      "title": "Nonstationary stochastic simulation–based water allocation method for regional water management",
+      "authors": "S Chen, D Shao, X Tan, W Gu, C Lei",
+      "venue": "Journal of Water Resources Planning and Management 145 (3), 04018102 , 2019",
+      "year": 2019,
+      "citations": 11,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:iH-uZ7U-co4C"
+    },
+    {
+      "title": "Combined impacts of climate change and human activities on blue and green water resources in a high-intensity development watershed",
+      "authors": "X Tan, B Liu, X Tan, Z Huang, J Fu",
+      "venue": "Hydrology and Earth System Sciences 29 (2), 427-445 , 2025",
+      "year": 2025,
+      "citations": 10,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:EUQCXRtRnyEC"
+    },
+    {
+      "title": "Projected climate change impacts on the availability of blue and green water in a watershed of intensive human water usage",
+      "authors": "X Tan, B Liu, X Tan, Z Huang, J Fu",
+      "venue": "Journal of Hydrology: Regional Studies 53, 101827 , 2024",
+      "year": 2024,
+      "citations": 10,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:abG-DnoFyZgC"
+    },
+    {
+      "title": "Effects of urbanization on changes in precipitation extremes in Guangdong-Hong Kong-Macao greater bay area, China",
+      "authors": "F Yang, X Wang, X Zhou, Q Wang, X Tan",
+      "venue": "Water 15 (19), 3438 , 2023",
+      "year": 2023,
+      "citations": 10,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:D03iK_w7-QYC"
+    },
+    {
+      "title": "Failure analysis of a new irrigation water allocation mode based on copula approaches in the Zhanghe Irrigation District, China",
+      "authors": "H Li, D Shao, B Xu, S Chen, W Gu, X Tan",
+      "venue": "Water 8 (6), 251 , 2016",
+      "year": 2016,
+      "citations": 10,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+      "title": "节水灌溉控制排水条件下稻田水氮平衡试验与模拟",
+      "authors": "谭学志， 邵东国， 刘欢欢， 孙春敏",
+      "venue": "农业工程学报 27 (11), 193-198 , 2011",
+      "year": 2011,
+      "citations": 10,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:R3hNpaxXUhUC"
+    },
+    {
+      "title": "Synoptic circulation forcing of large‐scale extreme precipitation events over southeastern China",
+      "authors": "X Wu, X Tan, X Chen, Z Huang",
+      "venue": "Journal of Geophysical Research: Atmospheres 129 (17), e2024JD041396 , 2024",
+      "year": 2024,
+      "citations": 8,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:NhqRSupF_l8C"
+    },
+    {
+      "title": "基于 Copula 函数的区域需水量随机模拟",
+      "authors": "杨丰顺， 邵东国， 顾文权， 肖淳， 谭学志， 杨海东",
+      "venue": "农业工程学报 28 (18), 107-112 , 2012",
+      "year": 2012,
+      "citations": 6,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+      "title": "Global characteristics of drought propagation from surface water to groundwater",
+      "authors": "L Liu, Z Zhou, W Li, S Huang, X Tan, T Tang, S Liu, H Shi",
+      "venue": "Journal of Hydrology, 134734 , 2025",
+      "year": 2025,
+      "citations": 5,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:K3LRdlH-MEoC"
+    },
+    {
+      "title": "Intensifying hydroclimate whiplash from a 3D perspective",
+      "authors": "J Fu, Y Lu, B Liu, X Tan, J Wei, X Tan, Z Huang, X Chen",
+      "venue": "Water Resources Research 61 (11), e2025WR040607 , 2025",
+      "year": 2025,
+      "citations": 5,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:Tiz5es2fbqcC"
+    },
+    {
+      "title": "Dynamics-constrained rainfall projection reveals substantial increase in population exposure to unprecedented floods in the North China Plain",
+      "authors": "L Yang, J Zhang, F Zhao, D Wright, C Li, D Yamazaki, X Tan, M Yu, ...",
+      "venue": "Communications Earth & Environment 6 (1), 482 , 2025",
+      "year": 2025,
+      "citations": 5,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:uWQEDVKXjbEC"
+    },
+    {
+      "title": "Intensity-duration-frequency curves in the Guangdong-Hong Kong-Macao Greater Bay Area inferred from the Bayesian hierarchical model",
+      "authors": "X Tan, Q Mai, G Chen, B Liu, Z Wang, C Lai, X Chen",
+      "venue": "Journal of Hydrology: Regional Studies 46, 101327 , 2023",
+      "year": 2023,
+      "citations": 5,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:fPk4N6BV_jEC"
+    },
+    {
+      "title": "Improvement of set pair analysis evaluation method and its application on urban water security",
+      "authors": "F Yang, D Shao, C Xiao, X Tan, W Gu, K Wang",
+      "venue": "2011 International Symposium on Water Resource and Environmental Protection … , 2011",
+      "year": 2011,
+      "citations": 5,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "title": "Dynamic development of global contiguous flash droughts: from an event-based spatiotemporal perspective",
+      "authors": "D Wang, X Tan, X Wu, Z Huang, S Deng, Y Liu, J Fu, X Tan, X Cai, B Liu, ...",
+      "venue": "Journal of Hydrology, 133934 , 2025",
+      "year": 2025,
+      "citations": 4,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:u9iWguZQMMsC"
+    },
+    {
+      "title": "Impacts of changes in climate extremes on maize yields over Mainland China",
+      "authors": "S Deng, X Tan, B Liu",
+      "venue": "Food Security 17 (1), 185-205 , 2025",
+      "year": 2025,
+      "citations": 4,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:CHSYGLWDkRkC"
+    },
+    {
+      "title": "Multi-scale accuracy assessment of multiple high spatial and temporal resolution precipitation products in the Pearl River Delta region.",
+      "authors": "MAI Qiying, TAN Xuezhi, WU Xinxin, LIU Bingjun, Y Fang, Z Mingzhu, ...",
+      "venue": "Acta Scientiarum Naturalium Universitatis Sunyatseni/Zhongshan Daxue Xuebao … , 2024",
+      "year": 2024,
+      "citations": 4,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:B3FOqHPlNUQC"
+    },
+    {
+      "title": "Impacts of anthropogenic climate change and vegetation variations on global changes in baseflow and stormflow",
+      "authors": "X Tan, X Tan, B Liu, Z Huang, J Fu, H Peng, W Zhang",
+      "venue": "Water Resources Research 61 (11), e2025WR040309 , 2025",
+      "year": 2025,
+      "citations": 3,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:WbkHhVStYXYC"
+    },
+    {
+      "title": "Increased dependency of regional drought termination on landfalling tropical cyclones",
+      "authors": "Y Liu, X Tan, X Wu, X Tan, C Lai, H Shi, TY Gan",
+      "venue": "Communications Earth & Environment 6 (1), 566 , 2025",
+      "year": 2025,
+      "citations": 3,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:p2g8aNsByqUC"
+    },
+    {
+      "title": "Interpreting global terrestrial water storage dynamics and drivers with explainable deep learning",
+      "authors": "H Huang, X Cai, L Li, X Wu, Z Zhao, X Tan",
+      "venue": "Remote Sensing 17 (13), 2118 , 2025",
+      "year": 2025,
+      "citations": 3,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:OU6Ihb5iCvQC"
+    },
+    {
+      "title": "Climate change dominates historical runoff variations at multiple time scales in typical agricultural basin of South China",
+      "authors": "Y Liu, Z Zeng, C Lai, X Wu, X Tan, Z Wang, S He, J Jiang",
+      "venue": "Journal of Hydrology: Regional Studies 59, 102322 , 2025",
+      "year": 2025,
+      "citations": 3,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:UxriW0iASnsC"
+    },
+    {
+      "title": "Large‐scale synoptic atmospheric moisture circulation patterns associated with variability of daily precipitation over East China",
+      "authors": "B Liu, S Chen, X Tan",
+      "venue": "International Journal of Climatology 41 (6), 3439-3456 , 2021",
+      "year": 2021,
+      "citations": 3,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:2P1L_qKh6hAC"
+    },
+    {
+      "title": "Dynamics of hydrological model parameters: Calibration and Reliability",
+      "authors": "T Lan, K Lin, X Tan, CY Xu, X Chen",
+      "venue": "Hydrology and Earth System Sciences Discussions 2019, 1-28 , 2019",
+      "year": 2019,
+      "citations": 3,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:M3NEmzRMIkIC"
+    },
+    {
+      "title": "A new method for assessing socioeconomic drought with climate-driven challenges: Temporal water demand-balance index",
+      "authors": "Y Wang, S Liu, J Chen, Z Zhou, S Huang, X Tan, Y Tian, H Shi",
+      "venue": "Journal of Cleaner Production 522, 146355 , 2025",
+      "year": 2025,
+      "citations": 2,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:XiSMed-E-HIC"
+    },
+    {
+      "title": "A Dynamic Game Model for Emergency Resource Managers and Compound Disasters Induced by Heavy Rainstorms",
+      "authors": "Y Wu, X Tan, H Mo, X Li, Y Zhang, F Yang, L Song, Y He, X Chen",
+      "venue": "Water 16 (20), 2959 , 2024",
+      "year": 2024,
+      "citations": 2,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:xtRiw3GOFMkC"
+    },
+    {
+      "title": "Sustainable trio for food, energy, and water security in Eurasia",
+      "authors": "Y Shi, Y Wang, S Liu, B Sivakumar, V Lakshmi, Y Zheng, L Jiang, ...",
+      "venue": "Communications Sustainability 1 (1), 30 , 2026",
+      "year": 2026,
+      "citations": 1,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:08ZZubdj9fEC"
+    },
+    {
+      "title": "Regional Changes in Precipitation Concentration, Seasonality and Intermittency in China",
+      "authors": "X Liu, X Tan, X Wu, Y Liu, D Wang",
+      "venue": "Seasonality and Intermittency in China , 2025",
+      "year": 2025,
+      "citations": 1,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:738O_yMBCRsC"
+    },
+    {
+      "title": "Detection and attribution of human influence on seasonal extreme precipitation in northern Hemisphere",
+      "authors": "J Zhao, KE Gan, S Zhang, G Zhang, X Tan, H Yan, TY Gan",
+      "venue": "Journal of Hydrology 657, 133133 , 2025",
+      "year": 2025,
+      "citations": 1,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:KxtntwgDAa4C"
+    },
+    {
+      "title": "Disentangling the influence of precipitation on nitrogen loss in the Pearl River Basin",
+      "authors": "X Cai, X Wu, H Huang, X Tan, Z Li, LM Kamarudin, N Abbas, SA Hussain, ...",
+      "venue": "Journal of Hydrology 677, 135809 , 2026",
+      "year": 2026,
+      "citations": 0,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:5Ul4iDaHHb8C"
+    },
+    {
+      "title": "Wavelet Analysis of Coastal Near‐Surface Wind Speed Over China and Teleconnections to Large‐Scale Climate Anomalies",
+      "authors": "X Tan, X Liu, T Zhang, Z Wang",
+      "venue": "International Journal of Climatology, e70509 , 2026",
+      "year": 2026,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:fQNAKQ3IYiAC"
+    },
+    {
+      "title": "Asymmetric temperature responses to soil moisture drought legacies under anthropogenic forcing",
+      "authors": "J Li, M Wu, W Liao, X Tan, X Wu, C Lai, Z Wang, X Cheng, X Liu, H Tang, ...",
+      "venue": "Nature Communications , 2026",
+      "year": 2026,
+      "citations": 0,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:LPZeul_q3PIC"
+    },
+    {
+      "title": "Harnessing complementarity of offshore wind and solar to stabilize global offshore wind-solar hybrid power system under climate change",
+      "authors": "Y Zhuang, K Xu, X Tan, L Bin, C Ma, J Zhang, J Lian",
+      "venue": "Energy, 141819 , 2026",
+      "year": 2026,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:VOx2b1Wkg3QC"
+    },
+    {
+      "title": "Regional Flood Emergency Capacity Assessment Based on a Multidimensional Framework",
+      "authors": "X Tan, Y Wu, X Li, X Li, L Song, F Yang",
+      "venue": "Journal of Flood Risk Management 19 (2) , 2026",
+      "year": 2026,
+      "citations": 0,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:geHnlv5EZngC"
+    },
+    {
+      "title": "Anthropogenic amplification of the dynamics of large-scale contiguous extreme precipitation events",
+      "authors": "D Wang, X Tan, X Wu, Z Ling",
+      "venue": "Communications Earth & Environment , 2026",
+      "year": 2026,
+      "citations": 0,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:8AbLer7MMksC"
+    },
+    {
+      "title": "Impact of Large‐Scale Meteorological Patterns on Offshore Wind Energy Variability and Extreme Wind Events in China",
+      "authors": "T Zhang, X Tan, X Liu, Z Wang",
+      "venue": "International Journal of Climatology, e70405 , 2026",
+      "year": 2026,
+      "citations": 0,
+      "category": "energy",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:sSrBHYA8nusC"
+    },
+    {
+      "title": "Deep Learning-Based Evaluation of Offshore Wind Energy Resources in Southeastern China for the Future",
+      "authors": "C Lai, P Zeng, Z Deng, Z Wang, X Tan",
+      "venue": "Energies 19 (6), 1447 , 2026",
+      "year": 2026,
+      "citations": 0,
+      "category": "energy",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:tS2w5q8j5-wC"
+    },
+    {
+      "title": "Climate Change Impact To The Mackenzie River Basin Projected by Weather and Research (WRF) Model",
+      "authors": "TY Gan, X Tan, S Zhang, JKEE Gan, J Zhao, G Zhang, J Chen",
+      "venue": "AGU24 , 2024",
+      "year": 2024,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:1sJd4Hv_s6UC"
+    },
+    {
+      "title": "The reconstruction and spatial-temporal analysis of historical land use based on 1∶ 50 000 topographic map—A case study of the Mei River Basin",
+      "authors": "F Yingying, HU Maochuan, TAN Xuezhi, LIU Bingjun",
+      "venue": "Acta Scientiarum Naturalium Universitatis SunYatseni 62 (2), 104-112 , 2023",
+      "year": 2023,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:4fKUyHm3Qg0C"
+    },
+    {
+      "title": "Extreme Hydro-Climate Events: Past, Present, and Future",
+      "authors": "H Shi, B Sivakumar, S Liu, X Tan, N Najibi",
+      "venue": "Atmosphere 13 (5), 843 , 2022",
+      "year": 2022,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:ZHo1McVdvXMC"
+    },
+    {
+      "title": "Long-term water imbalances of global watersheds resulting from biases in hydroclimatic datasets for water budget analyses",
+      "authors": "X Tan",
+      "venue": "IAHS2022 , 2022",
+      "year": 2022,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:rO6llkc54NcC"
+    },
+    {
+      "title": "Climate Change Impact to Blue Nile River Basin and the Optimal Operation of its Multi-reservoir System for Hydropower and Irrigation",
+      "authors": "TY Gan, T Tebikacheu, JKE Gan, X Tan, H Shi, J Li",
+      "venue": "AGU Fall Meeting Abstracts 2021, NH15F-0498 , 2021",
+      "year": 2021,
+      "citations": 0,
+      "category": "energy",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:pqnbT2bcN3wC"
+    },
+    {
+      "title": "Potential Impact of Climate Change on Streamflow of Major Ethiopian Rivers",
+      "authors": "S Zhang, MS Gizaw, GF Biftu, TY Gan, X Tan, SA Moges, H Koivusalo",
+      "venue": "2017 Fall Meeting , 2017",
+      "year": 2017,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:NMxIlDl6LWMC"
+    },
+    {
+      "title": "The spatiotemporal changes in precipitation extremes over Canada and their connections to large-scale climate patterns",
+      "authors": "Y Yang, TY Gan, X Tan",
+      "venue": "AGU Fall Meeting Abstracts 2017, NH51A-0115 , 2017",
+      "year": 2017,
+      "citations": 0,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:J_g5lzvAfSwC"
+    },
+    {
+      "title": "Analyzing and Characterizing Hydroclimatic Extremes over Canada",
+      "authors": "X Tan",
+      "venue": "",
+      "year": 2016,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+      "title": "Nonstationary Analysis of Annual Maximum Streamﬂow of Canada",
+      "authors": "TY Gan, X Tan",
+      "venue": "2015 AGU Fall Meeting , 2015",
+      "year": 2015,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:YFjsv_pBGBYC"
+    },
+    {
+      "title": "Regional Disaster Emergency Capacity Assessment Based on a Multidimensional Framework: A Case Study of Flood Capacity in Zengcheng District, China",
+      "authors": "X Tan, Y Wu, H Mo",
+      "venue": "China , 0",
+      "year": null,
+      "citations": 0,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:SP6oXDckpogC"
+    },
+    {
+      "title": "Contribution of Changes in Vegetation Structure and Climate Variability on Streamflow Across the Global Watersheds",
+      "authors": "X Tan, X Tan, B Liu, Z Huang",
+      "venue": "Available at SSRN 4272626 , 0",
+      "year": null,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:nb7KW1ujOQ8C"
+    },
+    {
+      "title": "Supplementary Information Contribution of human and climate change impacts to changes in streamflow of Canada",
+      "authors": "X Tan, TY Gan",
+      "venue": "",
+      "year": null,
+      "citations": 0,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&cstart=100&pagesize=100&citation_for_view=nB2d3vgAAAAJ:aqlVkmm33-oC"
+    }
+  ]
 }
