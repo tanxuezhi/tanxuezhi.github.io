@@ -6,7 +6,6 @@ workers_dev = true
 [triggers]
 crons = ["17 4 * * *"]
 
-# Before deployment, create a KV namespace and replace the placeholder below.
 [[kv_namespaces]]
 binding = "SCHOLAR_CACHE"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "608443fce0db44be86cc98aeb266afa8"
