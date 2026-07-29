@@ -59,6 +59,10 @@ def read_metrics(page: str) -> dict[str, int]:
     values = [html.unescape(value).replace(",", "").strip() for value in values]
     if len(values) < 3 or not all(value.isdigit() for value in values[:3]):
         raise ValueError("Could not find the public Scholar summary metrics")
+    # Scholar renders two columns (all / since a recent year): citation totals
+    # appear at indexes 0–1, h-index at 2–3 and i10-index at 4–5.
+    if len(values) >= 5 and all(value.isdigit() for value in values[:5]):
+        return {"citations": int(values[0]), "h_index": int(values[2]), "i10_index": int(values[4])}
     return {"citations": int(values[0]), "h_index": int(values[1]), "i10_index": int(values[2])}
 
 

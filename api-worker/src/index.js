@@ -46,6 +46,8 @@ function parseScholarPage(page) {
 function readMetrics(page) {
   const values = [...page.matchAll(/class=["']gsc_rsb_std["'][^>]*>\s*([^<]+)/g)].map((match) => Number(clean(match[1]).replace(/,/g, '')));
   if (values.length < 3 || values.slice(0, 3).some(Number.isNaN)) throw new Error('Scholar metrics were unavailable');
+  // Scholar shows all-time and recent-period columns side by side.
+  if (values.length >= 5 && values.slice(0, 5).every(Number.isFinite)) return {citations: values[0], h_index: values[2], i10_index: values[4]};
   return {citations: values[0], h_index: values[1], i10_index: values[2]};
 }
 
