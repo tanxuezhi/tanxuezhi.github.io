@@ -1,6 +1,8 @@
 const SCHOLAR_ID = 'nB2d3vgAAAAJ';
 const SCHOLAR_URL = `https://scholar.google.com/citations?user=${SCHOLAR_ID}&hl=en`;
-const FALLBACK_BASE = 'https://tanxuezhi.github.io/data';
+// Raw repository files update immediately after a successful Git push, unlike
+// the Pages artifact which may still be waiting for its deployment queue.
+const FALLBACK_BASE = 'https://raw.githubusercontent.com/tanxuezhi/tanxuezhi.github.io/main/data';
 const ALLOWED_ORIGINS = new Set(['https://tanxuezhi.github.io', 'http://localhost:8787']);
 
 const json = (value, request, status = 200) => new Response(JSON.stringify(value), {
