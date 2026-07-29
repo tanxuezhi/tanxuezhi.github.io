@@ -19,14 +19,25 @@ function draw(filter='all'){list.innerHTML=publications.filter(p=>filter==='all'
 document.querySelectorAll('.filters button').forEach(b=>b.addEventListener('click',()=>{document.querySelector('.filters .active').classList.remove('active');b.classList.add('active');draw(b.dataset.filter)}));draw();document.querySelector('#year').textContent=new Date().getFullYear();
 const header=document.querySelector('.site-header'),menu=document.querySelector('.menu-button');menu.addEventListener('click',()=>{const open=header.classList.toggle('open');menu.setAttribute('aria-expanded',open)});
 
-// This file is refreshed by GitHub Actions each Sunday from the public Scholar profile.
-fetch('data/scholar-stats.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(s=>{
+// The dynamic API is optional during migration. If it is unavailable, the site
+// seamlessly falls back to the repository's last verified Scholar snapshot.
+const fallbackApi={stats:'data/scholar-stats.json',publications:'data/scholar-publications.json'};
+async function getDataEndpoints(){
+ try{
+  const config=await fetch('data/runtime-config.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject());
+  const base=String(config.scholar_api_base||'').replace(/\/$/,'');
+  if(/^https:\/\//.test(base)) return {stats:`${base}/api/v1/stats`,publications:`${base}/api/v1/publications`};
+ }catch(_){ }
+ return fallbackApi;
+}
+getDataEndpoints().then(({stats,publications:publicationEndpoint})=>{
+fetch(stats,{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(s=>{
  const metrics=document.querySelector('#scholar-metrics'),updated=document.querySelector('#scholar-updated');
  if(metrics) metrics.textContent=`${Number(s.citations).toLocaleString()} citations · h-index ${s.h_index}`;
- if(updated&&s.updated_at) updated.textContent=`Last checked ${new Date(s.updated_at).toLocaleDateString('en-CA')} · daily refresh`;
+ if(updated&&s.updated_at) updated.textContent=`Last checked ${new Date(s.updated_at).toLocaleDateString('en-CA')} · ${s.refresh_mode||'daily'} refresh`;
 }).catch(()=>{});
 
-fetch('data/scholar-publications.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(data=>{
+fetch(publicationEndpoint,{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(data=>{
  if(!Array.isArray(data.publications)||!data.publications.length) return;
  publications=data.publications.map(p=>({
    c:p.category||'water',t:escapeHtml(p.title),a:authorMarkup(p.authors),
@@ -36,3 +47,4 @@ fetch('data/scholar-publications.json',{cache:'no-store'}).then(r=>r.ok?r.json()
  const label=document.querySelector('#publication-updated');
  if(label&&data.updated_at) label.textContent=`Last checked ${new Date(data.updated_at).toLocaleDateString('en-CA')} · ${publications.length} Scholar records`;
 }).catch(()=>{});
+});

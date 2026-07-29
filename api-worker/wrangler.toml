@@ -1,0 +1,12 @@
+name = "xuezhi-tan-scholar-api"
+main = "src/index.js"
+compatibility_date = "2026-07-29"
+workers_dev = true
+
+[triggers]
+crons = ["17 4 * * *"]
+
+# Before deployment, create a KV namespace and replace the placeholder below.
+[[kv_namespaces]]
+binding = "SCHOLAR_CACHE"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
