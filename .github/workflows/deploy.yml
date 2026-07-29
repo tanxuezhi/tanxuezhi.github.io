@@ -22,8 +22,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Refresh public Google Scholar profile and publications
+        id: scholar_refresh
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true
         run: python3 scripts/sync_scholar.py --write --retries 3
+      - name: Preserve last verified Scholar data when refresh is unavailable
+        if: steps.scholar_refresh.outcome == 'failure'
+        run: |
+          echo "::warning::Google Scholar temporarily declined the scheduled request. The site will keep the last verified Scholar data and still deploy."
       - name: Commit refreshed metrics
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
