@@ -1,6 +1,6 @@
 {
   "scholar_id": "nB2d3vgAAAAJ",
-  "updated_at": "2026-08-15T03:44:44Z",
+  "updated_at": "2026-08-16T03:53:14Z",
   "source": "https://scholar.google.com/citations?user=nB2d3vgAAAAJ&hl=en",
   "publications": [
     {
@@ -26,7 +26,7 @@
       "authors": "X Tan, X Wu, Z Huang, J Fu, X Tan, S Deng, Y Liu, TY Gan, B Liu",
       "venue": "Nature Communications 14 (1), 2796 , 2023",
       "year": 2023,
-      "citations": 166,
+      "citations": 168,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dfsIfKJdRG4C"
     },
@@ -35,7 +35,7 @@
       "authors": "B Liu, X Tan, TY Gan, X Chen, K Lin, M Lu, Z Liu",
       "venue": "Wiley Interdisciplinary Reviews: Water 7 (2), e1412 , 2020",
       "year": 2020,
-      "citations": 158,
+      "citations": 159,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:O3NaXMp0MMsC"
     },
@@ -265,6 +265,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:35N4QoGY0k4C"
     },
     {
+      "title": "A reversal in global occurrences of flash drought around 2000 identified by rapid changes in the standardized evaporative stress ratio",
+      "authors": "S Deng, X Tan, B Liu, F Yang, T Yan",
+      "venue": "Science of the Total Environment 848, 157427 , 2022",
+      "year": 2022,
+      "citations": 43,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:zA6iFVUQeVQC"
+    },
+    {
       "title": "Evaluation of water security: an integrated approach applied in Wuhan urban agglomeration, China",
       "authors": "D Shao, F Yang, C Xiao, X Tan",
       "venue": "Water Science and Technology 66 (1), 79-87 , 2012",
@@ -272,15 +281,6 @@
       "citations": 43,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:d1gkVwhDpl0C"
-    },
-    {
-      "title": "A reversal in global occurrences of flash drought around 2000 identified by rapid changes in the standardized evaporative stress ratio",
-      "authors": "S Deng, X Tan, B Liu, F Yang, T Yan",
-      "venue": "Science of the Total Environment 848, 157427 , 2022",
-      "year": 2022,
-      "citations": 42,
-      "category": "hazards",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:zA6iFVUQeVQC"
     },
     {
       "title": "Trends in persistent seasonal-scale atmospheric circulation patterns responsible for seasonal precipitation totals and occurrences of precipitation extremes over Canada",
@@ -521,7 +521,7 @@
       "authors": "X Tan, B Liu, X Tan, Z Huang, J Fu",
       "venue": "Hydrology and Earth System Sciences 29 (2), 427-445 , 2025",
       "year": 2025,
-      "citations": 14,
+      "citations": 15,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:EUQCXRtRnyEC"
     },
@@ -644,8 +644,8 @@
     },
     {
       "title": "基于 Copula 函数的区域需水量随机模拟",
-      "authors": "杨丰顺， 邵东国， 顾文权， 肖淳， 谭学志， 杨海东",
-      "venue": "农业工程学报 28 (18), 107-112 , 2012",
+      "authors": "丰顺杨， 东国邵， 文权顾， 淳肖， 学志谭， 海东杨",
+      "venue": "Nongye Gongcheng Xuebao/Transactions of the Chinese Society of Agricultural … , 2012",
       "year": 2012,
       "citations": 6,
       "category": "water",
