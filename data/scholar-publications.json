@@ -1,6 +1,6 @@
 {
   "scholar_id": "nB2d3vgAAAAJ",
-  "updated_at": "2026-09-20T08:27:30Z",
+  "updated_at": "2026-09-23T08:26:42Z",
   "source": "https://scholar.google.com/citations?user=nB2d3vgAAAAJ&hl=en",
   "publications": [
     {
@@ -8,7 +8,7 @@
       "authors": "X Tan, D Shao, H Liu, F Yang, C Xiao, H Yang",
       "venue": "Paddy and Water Environment 11 (1), 381-395 , 2013",
       "year": 2013,
-      "citations": 252,
+      "citations": 253,
       "category": "agri",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:u5HHmVD_uO8C"
     },
@@ -17,7 +17,7 @@
       "authors": "X Tan, X Wu, Z Huang, J Fu, X Tan, S Deng, Y Liu, TY Gan, B Liu",
       "venue": "Nature Communications 14 (1), 2796 , 2023",
       "year": 2023,
-      "citations": 186,
+      "citations": 187,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dfsIfKJdRG4C"
     },
@@ -89,7 +89,7 @@
       "authors": "X Tan, D Shao, W Gu",
       "venue": "Paddy and Water Environment, 1-12 , 2018",
       "year": 2018,
-      "citations": 105,
+      "citations": 106,
       "category": "agri",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:_Qo2XoVZTnwC"
     },
@@ -341,7 +341,7 @@
       "authors": "X Tan, B Liu, X Tan, X Chen",
       "venue": "Water Resources Research 58 (3), e2021WR031209 , 2022",
       "year": 2022,
-      "citations": 31,
+      "citations": 32,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:HoB7MX3m0LUC"
     },
@@ -625,6 +625,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:R3hNpaxXUhUC"
     },
     {
+      "title": "Intensifying hydroclimate whiplash from a 3D perspective",
+      "authors": "J Fu, Y Lu, B Liu, X Tan, J Wei, X Tan, Z Huang, X Chen",
+      "venue": "Water Resources Research 61 (11), e2025WR040607 , 2025",
+      "year": 2025,
+      "citations": 9,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:Tiz5es2fbqcC"
+    },
+    {
       "title": "Synoptic circulation forcing of large‐scale extreme precipitation events over southeastern China",
       "authors": "X Wu, X Tan, X Chen, Z Huang",
       "venue": "Journal of Geophysical Research: Atmospheres 129 (17), e2024JD041396 , 2024",
@@ -632,15 +641,6 @@
       "citations": 9,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:NhqRSupF_l8C"
-    },
-    {
-      "title": "Intensifying hydroclimate whiplash from a 3D perspective",
-      "authors": "J Fu, Y Lu, B Liu, X Tan, J Wei, X Tan, Z Huang, X Chen",
-      "venue": "Water Resources Research 61 (11), e2025WR040607 , 2025",
-      "year": 2025,
-      "citations": 8,
-      "category": "hazards",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:Tiz5es2fbqcC"
     },
     {
       "title": "Dynamic development of global contiguous flash droughts: from an event-based spatiotemporal perspective",
