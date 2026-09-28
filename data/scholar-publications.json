@@ -1,6 +1,6 @@
 {
   "scholar_id": "nB2d3vgAAAAJ",
-  "updated_at": "2026-09-23T08:26:42Z",
+  "updated_at": "2026-09-28T09:35:29Z",
   "source": "https://scholar.google.com/citations?user=nB2d3vgAAAAJ&hl=en",
   "publications": [
     {
@@ -17,7 +17,7 @@
       "authors": "X Tan, X Wu, Z Huang, J Fu, X Tan, S Deng, Y Liu, TY Gan, B Liu",
       "venue": "Nature Communications 14 (1), 2796 , 2023",
       "year": 2023,
-      "citations": 187,
+      "citations": 190,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dfsIfKJdRG4C"
     },
@@ -62,7 +62,7 @@
       "authors": "X Tan, B Liu, X Tan",
       "venue": "Water Resources Research 56 (9), e2020WR027349 , 2020",
       "year": 2020,
-      "citations": 119,
+      "citations": 120,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:RYcK_YlVTxYC"
     },
@@ -80,7 +80,7 @@
       "authors": "X Tan, TY Gan, D Shao",
       "venue": "Journal of Geophysical Research: Atmospheres 121 (24), 14,469-14,486 , 2016",
       "year": 2016,
-      "citations": 108,
+      "citations": 109,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:mVmsd5A6BfQC"
     },
@@ -125,7 +125,7 @@
       "authors": "XZ Tan, Y Li, XX Wu, C Dai, XL Zhang, YP Cai",
       "venue": "Journal of Hydrology: Regional Studies 51, 101624 , 2024",
       "year": 2024,
-      "citations": 74,
+      "citations": 75,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:pyW8ca7W8N0C"
     },
@@ -157,6 +157,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dshw04ExmUIC"
     },
     {
+      "title": "Global changes in the spatial extents of precipitation extremes",
+      "authors": "X Tan, X Wu, B Liu",
+      "venue": "Environmental Research Letters 16 (5), 054017 , 2021",
+      "year": 2021,
+      "citations": 65,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:g5m5HwL7SMYC"
+    },
+    {
       "title": "Evaluation of soil water percolation under different irrigation practices, antecedent moisture and groundwater depths in paddy fields",
       "authors": "B Xu, D Shao, X Tan, X Yang, W Gu, H Li",
       "venue": "Agricultural Water Management 192, 149-158 , 2017",
@@ -164,15 +173,6 @@
       "citations": 65,
       "category": "agri",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:IWHjjKOFINEC"
-    },
-    {
-      "title": "Global changes in the spatial extents of precipitation extremes",
-      "authors": "X Tan, X Wu, B Liu",
-      "venue": "Environmental Research Letters 16 (5), 054017 , 2021",
-      "year": 2021,
-      "citations": 64,
-      "category": "extreme",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:g5m5HwL7SMYC"
     },
     {
       "title": "Non-stationary analysis of the frequency and intensity of heavy precipitation over Canada and their relations to large-scale climate patterns",
@@ -310,6 +310,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:-f6ydRqryjwC"
     },
     {
+      "title": "Inter-comparison of spatiotemporal features of precipitation extremes within six daily precipitation products: S. Chen et al.",
+      "authors": "S Chen, B Liu, X Tan, Y Wu",
+      "venue": "Climate Dynamics 54 (1), 1057-1076 , 2020",
+      "year": 2020,
+      "citations": 35,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:BqipwSGYUEgC"
+    },
+    {
       "title": "Performance analysis of on-farm irrigation tanks on agricultural drainage water reuse and treatment",
       "authors": "D Shao, X Tan, H Liu, H Yang, C Xiao, F Yang",
       "venue": "Resources, conservation and recycling 75, 1-13 , 2013",
@@ -317,15 +326,6 @@
       "citations": 35,
       "category": "agri",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:2osOgNQ5qMEC"
-    },
-    {
-      "title": "Inter-comparison of spatiotemporal features of precipitation extremes within six daily precipitation products: S. Chen et al.",
-      "authors": "S Chen, B Liu, X Tan, Y Wu",
-      "venue": "Climate Dynamics 54 (1), 1057-1076 , 2020",
-      "year": 2020,
-      "citations": 34,
-      "category": "extreme",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:BqipwSGYUEgC"
     },
     {
       "title": "Relative contributions of large‐scale atmospheric circulation dynamics and anthropogenic warming to the unprecedented 2022 Yangtze River Basin heatwave",
@@ -346,6 +346,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:HoB7MX3m0LUC"
     },
     {
+      "title": "The responses of ecosystem water use efficiency to CO2, nitrogen deposition, and climatic drivers across China",
+      "authors": "X Cai, L Li, JB Fisher, Z Zeng, S Zhou, X Tan, B Liu, X Chen",
+      "venue": "Journal of Hydrology 622, 129696 , 2023",
+      "year": 2023,
+      "citations": 29,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:cFHS6HbyZ2cC"
+    },
+    {
       "title": "基于 SPI 的陕西关中地区气象干旱时空特征分析",
       "authors": "学志谭， 晓玲粟， 东国邵",
       "venue": "Agricultural Research in the Arid Areas 29 (2), 224-229 , 2011",
@@ -353,15 +362,6 @@
       "citations": 29,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:TQgYirikUcIC"
-    },
-    {
-      "title": "The responses of ecosystem water use efficiency to CO2, nitrogen deposition, and climatic drivers across China",
-      "authors": "X Cai, L Li, JB Fisher, Z Zeng, S Zhou, X Tan, B Liu, X Chen",
-      "venue": "Journal of Hydrology 622, 129696 , 2023",
-      "year": 2023,
-      "citations": 28,
-      "category": "agri",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:cFHS6HbyZ2cC"
     },
     {
       "title": "Multi-model extreme event attribution of the weather conducive to the 2016 Fort McMurray wildfire",
@@ -436,6 +436,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:j3f4tGmQtD8C"
     },
     {
+      "title": "Fronts and cyclones associated with changes in the total and extreme precipitation over China",
+      "authors": "X Wu, X Tan, B Liu, H Chen, X Chen",
+      "venue": "Journal of Climate 35 (13), 4131-4146 , 2022",
+      "year": 2022,
+      "citations": 22,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:SeFeTyx0c_EC"
+    },
+    {
       "title": "Duration–severity–area characteristics of drought events in eastern China determined using a three‐dimensional clustering method",
       "authors": "B Liu, M Liang, Z Huang, X Tan",
       "venue": "International Journal of climatology 41, E3065-E3084 , 2021",
@@ -454,15 +463,6 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:RHpTSmoSYBkC"
     },
     {
-      "title": "Fronts and cyclones associated with changes in the total and extreme precipitation over China",
-      "authors": "X Wu, X Tan, B Liu, H Chen, X Chen",
-      "venue": "Journal of Climate 35 (13), 4131-4146 , 2022",
-      "year": 2022,
-      "citations": 21,
-      "category": "hazards",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:SeFeTyx0c_EC"
-    },
-    {
       "title": "Impacts of land use change on thermodynamic and dynamic changes of precipitation for the Yangtze River Basin, China",
       "authors": "Q Lin, J Chen, W Li, K Huang, X Tan, H Chen",
       "venue": "International Journal of Climatology 41 (6), 3598-3614 , 2021",
@@ -472,6 +472,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:ldfaerwXgEUC"
     },
     {
+      "title": "A stochastic simulation-based chance-constrained programming model for optimizing watershed best management practices for nonpoint source pollution control under uncertainty",
+      "authors": "C Dai, X Zhang, X Tan, M Hu, W Sun",
+      "venue": "Journal of Hydrology 632, 130882 , 2024",
+      "year": 2024,
+      "citations": 20,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:_xSYboBqXhAC"
+    },
+    {
       "title": "An interval multistage classified model for regional inter-and intra-seasonal water management under uncertain and nonstationary condition",
       "authors": "S Chen, D Shao, X Tan, W Gu, C Lei",
       "venue": "Agricultural Water Management 191, 98-112 , 2017",
@@ -479,15 +488,6 @@
       "citations": 20,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:ZeXyd9-uunAC"
-    },
-    {
-      "title": "A stochastic simulation-based chance-constrained programming model for optimizing watershed best management practices for nonpoint source pollution control under uncertainty",
-      "authors": "C Dai, X Zhang, X Tan, M Hu, W Sun",
-      "venue": "Journal of Hydrology 632, 130882 , 2024",
-      "year": 2024,
-      "citations": 19,
-      "category": "water",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:_xSYboBqXhAC"
     },
     {
       "title": "Detection and attribution of the decreasing precipitation and extreme drought 2020 in southeastern China",
@@ -589,6 +589,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:D03iK_w7-QYC"
     },
     {
+      "title": "Global characteristics of drought propagation from surface water to groundwater",
+      "authors": "L Liu, Z Zhou, W Li, S Huang, X Tan, T Tang, S Liu, H Shi",
+      "venue": "Journal of Hydrology, 134734 , 2025",
+      "year": 2025,
+      "citations": 11,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:K3LRdlH-MEoC"
+    },
+    {
       "title": "Nonstationary stochastic simulation–based water allocation method for regional water management",
       "authors": "S Chen, D Shao, X Tan, W Gu, C Lei",
       "venue": "Journal of Water Resources Planning and Management 145 (3), 04018102 , 2019",
@@ -596,15 +605,6 @@
       "citations": 11,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:iH-uZ7U-co4C"
-    },
-    {
-      "title": "Global characteristics of drought propagation from surface water to groundwater",
-      "authors": "L Liu, Z Zhou, W Li, S Huang, X Tan, T Tang, S Liu, H Shi",
-      "venue": "Journal of Hydrology, 134734 , 2025",
-      "year": 2025,
-      "citations": 10,
-      "category": "hazards",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:K3LRdlH-MEoC"
     },
     {
       "title": "Failure analysis of a new irrigation water allocation mode based on copula approaches in the Zhanghe Irrigation District, China",
@@ -647,7 +647,7 @@
       "authors": "D Wang, X Tan, X Wu, Z Huang, S Deng, Y Liu, J Fu, X Tan, X Cai, B Liu, ...",
       "venue": "Journal of Hydrology, 133934 , 2025",
       "year": 2025,
-      "citations": 7,
+      "citations": 8,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:u9iWguZQMMsC"
     },
@@ -668,6 +668,15 @@
       "citations": 6,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:WbkHhVStYXYC"
+    },
+    {
+      "title": "Impacts of changes in climate extremes on maize yields over Mainland China: Deng S. et al.",
+      "authors": "S Deng, X Tan, B Liu",
+      "venue": "Food Security 17 (1), 185-205 , 2025",
+      "year": 2025,
+      "citations": 6,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:CHSYGLWDkRkC"
     },
     {
       "title": "Intensity-duration-frequency curves in the Guangdong-Hong Kong-Macao Greater Bay Area inferred from the Bayesian hierarchical model",
@@ -695,15 +704,6 @@
       "citations": 5,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:738O_yMBCRsC"
-    },
-    {
-      "title": "Impacts of changes in climate extremes on maize yields over Mainland China: Deng S. et al.",
-      "authors": "S Deng, X Tan, B Liu",
-      "venue": "Food Security 17 (1), 185-205 , 2025",
-      "year": 2025,
-      "citations": 5,
-      "category": "agri",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:CHSYGLWDkRkC"
     },
     {
       "title": "Improvement of set pair analysis evaluation method and its application on urban water security",
