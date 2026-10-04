@@ -1,6 +1,6 @@
 {
   "scholar_id": "nB2d3vgAAAAJ",
-  "updated_at": "2026-09-28T09:35:29Z",
+  "updated_at": "2026-10-04T09:32:56Z",
   "source": "https://scholar.google.com/citations?user=nB2d3vgAAAAJ&hl=en",
   "publications": [
     {
@@ -8,7 +8,7 @@
       "authors": "X Tan, D Shao, H Liu, F Yang, C Xiao, H Yang",
       "venue": "Paddy and Water Environment 11 (1), 381-395 , 2013",
       "year": 2013,
-      "citations": 253,
+      "citations": 254,
       "category": "agri",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:u5HHmVD_uO8C"
     },
@@ -17,7 +17,7 @@
       "authors": "X Tan, X Wu, Z Huang, J Fu, X Tan, S Deng, Y Liu, TY Gan, B Liu",
       "venue": "Nature Communications 14 (1), 2796 , 2023",
       "year": 2023,
-      "citations": 190,
+      "citations": 193,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dfsIfKJdRG4C"
     },
@@ -35,7 +35,7 @@
       "authors": "B Liu, X Tan, TY Gan, X Chen, K Lin, M Lu, Z Liu",
       "venue": "Wiley Interdisciplinary Reviews: Water 7 (2), e1412 , 2020",
       "year": 2020,
-      "citations": 162,
+      "citations": 164,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:O3NaXMp0MMsC"
     },
@@ -62,7 +62,7 @@
       "authors": "X Tan, B Liu, X Tan",
       "venue": "Water Resources Research 56 (9), e2020WR027349 , 2020",
       "year": 2020,
-      "citations": 120,
+      "citations": 122,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:RYcK_YlVTxYC"
     },
@@ -89,7 +89,7 @@
       "authors": "X Tan, D Shao, W Gu",
       "venue": "Paddy and Water Environment, 1-12 , 2018",
       "year": 2018,
-      "citations": 106,
+      "citations": 108,
       "category": "agri",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:_Qo2XoVZTnwC"
     },
@@ -152,7 +152,7 @@
       "authors": "H Wu, X Su, S Huang, VP Singh, S Zhou, X Tan, X Hu",
       "venue": "Nature Climate Change 15 (4), 411-419 , 2025",
       "year": 2025,
-      "citations": 69,
+      "citations": 70,
       "category": "agri",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:dshw04ExmUIC"
     },
@@ -400,6 +400,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:r0BpntZqJG4C"
     },
     {
+      "title": "On the development and recovery of soil moisture deficit drought events",
+      "authors": "S Deng, X Tan, X Tan, X Wu, Z Huang, Y Liu, B Liu",
+      "venue": "Journal of Hydrology 632, 130920 , 2024",
+      "year": 2024,
+      "citations": 25,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:bFI3QPDXJZMC"
+    },
+    {
       "title": "Contribution of changes in vegetation composition and climate variability on streamflow across the global watersheds",
       "authors": "X Tan, X Tan, B Liu, Z Huang",
       "venue": "Catena 232, 107394 , 2023",
@@ -409,13 +418,13 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:a0OBvERweLwC"
     },
     {
-      "title": "On the development and recovery of soil moisture deficit drought events",
-      "authors": "S Deng, X Tan, X Tan, X Wu, Z Huang, Y Liu, B Liu",
-      "venue": "Journal of Hydrology 632, 130920 , 2024",
-      "year": 2024,
+      "title": "Daily water quality forecast of the South-To-North Water Diversion Project of China based on the Cuckoo Search-back propagation neural network",
+      "authors": "D Shao, X Nong, X Tan, S Chen, B Xu, N Hu",
+      "venue": "Water 10 (10), 1471 , 2018",
+      "year": 2018,
       "citations": 24,
-      "category": "agri",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:bFI3QPDXJZMC"
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:j3f4tGmQtD8C"
     },
     {
       "title": "A copula-based interval-bistochastic programming method for regional water allocation under uncertainty",
@@ -425,15 +434,6 @@
       "citations": 23,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:isC4tDSrTZIC"
-    },
-    {
-      "title": "Daily water quality forecast of the South-To-North Water Diversion Project of China based on the Cuckoo Search-back propagation neural network",
-      "authors": "D Shao, X Nong, X Tan, S Chen, B Xu, N Hu",
-      "venue": "Water 10 (10), 1471 , 2018",
-      "year": 2018,
-      "citations": 23,
-      "category": "water",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:j3f4tGmQtD8C"
     },
     {
       "title": "Fronts and cyclones associated with changes in the total and extreme precipitation over China",
@@ -499,6 +499,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:3s1wT3WcHBgC"
     },
     {
+      "title": "Combined impacts of climate change and human activities on blue and green water resources in a high-intensity development watershed",
+      "authors": "X Tan, B Liu, X Tan, Z Huang, J Fu",
+      "venue": "Hydrology and Earth System Sciences 29 (2), 427-445 , 2025",
+      "year": 2025,
+      "citations": 18,
+      "category": "water",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:EUQCXRtRnyEC"
+    },
+    {
       "title": "Can limiting global temperature rise to below 2° C warming prevent the emergence of unprecedented drought?",
       "authors": "Y Ji, J Fu, B Liu, X Tan",
       "venue": "Agricultural and Forest Meteorology 352, 110047 , 2024",
@@ -506,15 +515,6 @@
       "citations": 18,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:b0M2c_1WBrUC"
-    },
-    {
-      "title": "Combined impacts of climate change and human activities on blue and green water resources in a high-intensity development watershed",
-      "authors": "X Tan, B Liu, X Tan, Z Huang, J Fu",
-      "venue": "Hydrology and Earth System Sciences 29 (2), 427-445 , 2025",
-      "year": 2025,
-      "citations": 17,
-      "category": "water",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:EUQCXRtRnyEC"
     },
     {
       "title": "Long-term changes, synoptic behaviors, and future projections of large-scale anomalous precipitation events in China detected by a deep learning autoencoder",
@@ -530,7 +530,7 @@
       "authors": "X Tan, B Liu, X Tan, Z Huang, J Fu",
       "venue": "Journal of Hydrology: Regional Studies 53, 101827 , 2024",
       "year": 2024,
-      "citations": 15,
+      "citations": 16,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:abG-DnoFyZgC"
     },
@@ -542,6 +542,15 @@
       "citations": 14,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:u_35RYKgDlwC"
+    },
+    {
+      "title": "Characteristics and circulation background of extreme precipitation over East China",
+      "authors": "S Chen, B Liu, X Tan, Z Huang",
+      "venue": "Natural Hazards 99 (1), 537-552 , 2019",
+      "year": 2019,
+      "citations": 14,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:JV2RwH3_ST0C"
     },
     {
       "title": "Improving water reuse in paddy field districts with cascaded on-farm ponds using hydrologic model simulations",
@@ -560,15 +569,6 @@
       "citations": 13,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:70eg2SAEIzsC"
-    },
-    {
-      "title": "Characteristics and circulation background of extreme precipitation over East China",
-      "authors": "S Chen, B Liu, X Tan, Z Huang",
-      "venue": "Natural Hazards 99 (1), 537-552 , 2019",
-      "year": 2019,
-      "citations": 13,
-      "category": "extreme",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:JV2RwH3_ST0C"
     },
     {
       "title": "Synoptic moisture pathways associated with mean and extreme precipitation over Canada for winter and spring",
@@ -656,7 +656,7 @@
       "authors": "L Yang, J Zhang, F Zhao, D Wright, C Li, D Yamazaki, X Tan, M Yu, ...",
       "venue": "Communications Earth & Environment 6 (1), 482 , 2025",
       "year": 2025,
-      "citations": 7,
+      "citations": 8,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:uWQEDVKXjbEC"
     },
@@ -706,6 +706,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:738O_yMBCRsC"
     },
     {
+      "title": "Climate change dominates historical runoff variations at multiple time scales in typical agricultural basin of South China",
+      "authors": "Y Liu, Z Zeng, C Lai, X Wu, X Tan, Z Wang, S He, J Jiang",
+      "venue": "Journal of Hydrology: Regional Studies 59, 102322 , 2025",
+      "year": 2025,
+      "citations": 5,
+      "category": "agri",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:UxriW0iASnsC"
+    },
+    {
       "title": "Improvement of set pair analysis evaluation method and its application on urban water security",
       "authors": "F Yang, D Shao, C Xiao, X Tan, W Gu, K Wang",
       "venue": "2011 International Symposium on Water Resource and Environmental Protection … , 2011",
@@ -722,15 +731,6 @@
       "citations": 4,
       "category": "hazards",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:p2g8aNsByqUC"
-    },
-    {
-      "title": "Climate change dominates historical runoff variations at multiple time scales in typical agricultural basin of South China",
-      "authors": "Y Liu, Z Zeng, C Lai, X Wu, X Tan, Z Wang, S He, J Jiang",
-      "venue": "Journal of Hydrology: Regional Studies 59, 102322 , 2025",
-      "year": 2025,
-      "citations": 4,
-      "category": "agri",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:UxriW0iASnsC"
     },
     {
       "title": "Multi-scale accuracy assessment of multiple high spatial and temporal resolution precipitation products in the Pearl River Delta region.",
