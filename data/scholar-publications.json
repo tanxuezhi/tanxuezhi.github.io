@@ -1,6 +1,6 @@
 {
   "scholar_id": "nB2d3vgAAAAJ",
-  "updated_at": "2026-10-26T08:43:25Z",
+  "updated_at": "2026-10-30T09:49:10Z",
   "source": "https://scholar.google.com/citations?user=nB2d3vgAAAAJ&hl=en",
   "publications": [
     {
@@ -35,7 +35,7 @@
       "authors": "B Liu, X Tan, TY Gan, X Chen, K Lin, M Lu, Z Liu",
       "venue": "Wiley Interdisciplinary Reviews: Water 7 (2), e1412 , 2020",
       "year": 2020,
-      "citations": 166,
+      "citations": 167,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:O3NaXMp0MMsC"
     },
@@ -62,7 +62,7 @@
       "authors": "X Tan, B Liu, X Tan",
       "venue": "Water Resources Research 56 (9), e2020WR027349 , 2020",
       "year": 2020,
-      "citations": 123,
+      "citations": 124,
       "category": "water",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:RYcK_YlVTxYC"
     },
@@ -193,6 +193,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:GnPB-g6toBAC"
     },
     {
+      "title": "Spatiotemporal changes in precipitation extremes over Canada and their teleconnections to large-scale climate patterns",
+      "authors": "Y Yang, TY Gan, X Tan",
+      "venue": "Journal of Hydrometeorology 20 (2), 275-296 , 2019",
+      "year": 2019,
+      "citations": 58,
+      "category": "extreme",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:4JMBOYKVnBMC"
+    },
+    {
       "title": "Non-stationary analysis of the frequency and intensity of heavy precipitation over Canada and their relations to large-scale climate patterns",
       "authors": "X Tan, TY Gan",
       "venue": "Climate Dynamics 48 (9), 2983-3001 , 2017",
@@ -209,15 +218,6 @@
       "citations": 57,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:ns9cj8rnVeAC"
-    },
-    {
-      "title": "Spatiotemporal changes in precipitation extremes over Canada and their teleconnections to large-scale climate patterns",
-      "authors": "Y Yang, TY Gan, X Tan",
-      "venue": "Journal of Hydrometeorology 20 (2), 275-296 , 2019",
-      "year": 2019,
-      "citations": 57,
-      "category": "extreme",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:4JMBOYKVnBMC"
     },
     {
       "title": "Multifractality of Canadian precipitation and streamflow",
@@ -580,6 +580,15 @@
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:TFP_iSt0sucC"
     },
     {
+      "title": "Global characteristics of drought propagation from surface water to groundwater",
+      "authors": "L Liu, Z Zhou, W Li, S Huang, X Tan, T Tang, S Liu, H Shi",
+      "venue": "Journal of Hydrology, 134734 , 2025",
+      "year": 2025,
+      "citations": 12,
+      "category": "hazards",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:K3LRdlH-MEoC"
+    },
+    {
       "title": "Effects of urbanization on changes in precipitation extremes in Guangdong-Hong Kong-Macao greater bay area, China",
       "authors": "F Yang, X Wang, X Zhou, Q Wang, X Tan",
       "venue": "Water 15 (19), 3438 , 2023",
@@ -587,15 +596,6 @@
       "citations": 12,
       "category": "extreme",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:D03iK_w7-QYC"
-    },
-    {
-      "title": "Global characteristics of drought propagation from surface water to groundwater",
-      "authors": "L Liu, Z Zhou, W Li, S Huang, X Tan, T Tang, S Liu, H Shi",
-      "venue": "Journal of Hydrology, 134734 , 2025",
-      "year": 2025,
-      "citations": 11,
-      "category": "hazards",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nB2d3vgAAAAJ&pagesize=100&citation_for_view=nB2d3vgAAAAJ:K3LRdlH-MEoC"
     },
     {
       "title": "Nonstationary stochastic simulation–based water allocation method for regional water management",
